@@ -1,4 +1,4 @@
-# i_am_poor
+# Udemy Flutter Development Bootcamp: i-am-poor-flutter
 
 Play on the infamous "I am Rich" app to practice Flutter coding.
 
